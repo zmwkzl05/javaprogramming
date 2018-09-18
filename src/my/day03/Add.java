@@ -13,5 +13,6 @@ public class Add {
 		sum=x+y;
 		System.out.println("100과 200의 합=" + sum);
 	}
-
+// 한 줄 없애기 ctrl+d
+// 대입연산자 기준 오른쪽이 우선 순위
 }

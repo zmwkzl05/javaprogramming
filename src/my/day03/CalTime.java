@@ -15,3 +15,12 @@ public class CalTime {
 	}
 
 }
+
+
+/*
+ * Scanner 클래스를 사용한다.
+ * '*' 모든걸 포함 하겠다.
+ * import 한다.
+ * Scanner input<-(이것이 바로 참조형이다.)
+ * 참조하려는 클래스 이름, 변수명, new, 생성자 메소드순으로 나온다
+ */
