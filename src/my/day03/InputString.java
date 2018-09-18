@@ -19,5 +19,6 @@ public class InputString {
 		
 		System.out.println(name + "님 안녕하세요! " + age + "살 이시네요. \n연락처는 " + phoneNumber + "입니다.");
 	}
-// Scanner는 꼭 기억으 하시오!!
+// Scanner는 꼭 기억을 하시오!!
+// 관계연산자에선 등호가 먼저 나오면 안된다!
 }
