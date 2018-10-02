@@ -29,3 +29,6 @@ public class NumberGuess {
 	}
 
 }
+
+// java에서 배열은 참조형이다
+// 배열은 자료구조@ 저장장소
